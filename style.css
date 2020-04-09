@@ -1,0 +1,49 @@
+table {
+    position: absolute;
+    top: 140px;
+	z-index: 2;
+	left: 180px;
+}
+
+.boardd {
+    position: absolute;
+    top: 0;
+}
+
+td {
+	padding-left: 14px;
+	padding-top: 8px;
+}
+
+p {
+    position: absolute;
+    z-index: 1;
+    font-size: 50;
+    color: red;
+    font-family: Arial;
+    padding-left: 280px;
+}
+
+button {
+    color: white;
+    background-color: black;
+    font-family: Arial;
+    
+}
+
+.reset {
+
+    color: white;
+    background-color: black;
+    font-family: Arial;
+    position: absolute;
+
+}
+
+h5 {
+    position: absolute;
+    color: gray;
+    font-family: Arial;
+    top: -10;
+    left: 100;
+}
